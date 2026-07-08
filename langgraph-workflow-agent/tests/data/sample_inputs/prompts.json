@@ -1,0 +1,42 @@
+[
+  {
+    "query": "Summarize the causes of World War 1.",
+    "route": "summary_handler"
+  },
+  {
+    "query": "What is the capital city of France?",
+    "route": "summary_handler"
+  },
+  {
+    "query": "Explain what neural networks are.",
+    "route": "summary_handler"
+  },
+  {
+    "query": "Write a Python function to check whether a number is prime.",
+    "route": "code_handler"
+  },
+  {
+    "query": "Implement binary search algorithm in Python.",
+    "route": "code_handler"
+  },
+  {
+    "query": "Create a FastAPI endpoint for user login.",
+    "route": "code_handler"
+  },
+  {
+    "query": "Compare Python and Java programming languages.",
+    "route": "general_handler"
+  },
+  {
+    "query": "Should students use AI tools for learning?",
+    "route": "general_handler"
+  },
+  {
+    "query": "How can I deploy a machine learning model?",
+    "route": "general_handler"
+  },
+  {
+    "query": "Tell me an interesting fact about space.",
+    "route": "general_handler"
+  }
+]
